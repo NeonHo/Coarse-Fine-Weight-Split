@@ -15,3 +15,5 @@ or
 ```bash
 python in_testing/parser/test_yolov6.py
 ```
+
+Copyright [2023] [HOUMO.AI]
